@@ -1,16 +1,14 @@
-# flutter_application_1
+# To-Do App
 
-A new Flutter project.
+Unlock your productivity superpowers with To-Do App. ⚡ This simple to-do list app harnesses the power of dopamine to keep you focused and on track.  Add tasks, effortlessly check them off, and feel the rush of accomplishment with every completed item.  It's time to level up your task-mastery! Built with Flutter for a smooth and native feel, and utilizing Hive for secure and efficient data storage, To-Do App makes conquering your tasks a breeze.
 
-## Getting Started
+![Screenshot_1706450803](https://github.com/Sayeda-fatima/To-Do-App/assets/86098096/f0299dca-3045-49ab-b277-6cfd121296dc)
 
-This project is a starting point for a Flutter application.
+# Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Effortless Task Management:** Add, edit, and delete tasks with ease. Intuitive interface for smooth task flow.
+- **Dopamine Driven:** Enjoy satisfying animations and a rewarding experience when you complete tasks.
+- **Secure and Seamless:** Built with Flutter for a native feel and Hive for secure, efficient data storage.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
