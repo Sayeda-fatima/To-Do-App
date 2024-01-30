@@ -76,7 +76,9 @@ class _HomePageState extends State<HomePage> {
 
   @override
   Widget build(BuildContext context) {
-    return Scaffold(
+    return OrientationBuilder(
+      builder: (context, orientation) {
+        return Scaffold(
       backgroundColor: Colors.pink[100], 
       appBar: AppBar(
         backgroundColor: Colors.pink[200],            
@@ -101,5 +103,7 @@ class _HomePageState extends State<HomePage> {
           );
         }))
     );
+      }
+      );
   }
 }
